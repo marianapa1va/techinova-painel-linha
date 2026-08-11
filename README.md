@@ -8,4 +8,4 @@ Abra o arquivo `index.html` no navegador. Nao precisa de servidor web.
 
 ## Identificacao
 
-<!-- Mariana Rodrigues de Paiva -->
+Mariana Rodrigues de Paiva
