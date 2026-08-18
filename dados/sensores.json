@@ -28,5 +28,11 @@
     "descricao": "Vibracao do eixo principal",
     "valor": 68.0,
     "unidade": "F"
+  },
+  {
+    "codigo": "S-000",
+    "descricao": "Temperatura geral",
+    "valor": 70.0,
+    "unidade": "F"
   }
 ]
